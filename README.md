@@ -1,6 +1,13 @@
-## Welcome to the Repository of the Technical Assessment
+## Welcome to the Repository of the Data Engineer Technical Assessment
 
 ## Here you will find the files which I have used in order to completed the assessment
+Only half of the tasks have been completed as of now due to time constraints due to conflicts with my Exam schedule. Rest of the work will be delivered in a reasonable time after exams.
+
+Thank you for your understanding and consideration
+
+## Reproducing the Folder
+1. Download and install the packages mentioned in the requirements.txt
+2. You're good to go!
 
 ## Overview of folders
 1. Cleaned data: consists all the cleaned data files derived from the csv and gz files
