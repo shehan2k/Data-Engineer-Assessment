@@ -1,0 +1,3 @@
+Column Name,Data Type,Total Rows,Null Count,Duplicates Exist (Cardinality),Value Range,Sample Value
+neighbourhood_group,VARCHAR,33,33,No,-,NULL
+neighbourhood,VARCHAR,33,0,No,-,Barking and Dagenham

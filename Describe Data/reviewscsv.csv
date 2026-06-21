@@ -1,0 +1,3 @@
+Column Name,Data Type,Total Rows,Null Count,Duplicates Exist (Cardinality),Value Range,Sample Value
+listing_id,BIGINT,2097996,0,Yes,13913 to 1508900042872179456,1360933821164682538
+date,DATE,2097996,0,Yes,-,2025-07-09

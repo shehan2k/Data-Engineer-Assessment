@@ -1,0 +1,8 @@
+Column Name,Data Type,Value Range,Sample Value
+listing_id,BIGINT,13913 to 1508964418056953856,11030221
+date,DATE,-,2025-09-15
+available,BOOLEAN,-,True
+price,VARCHAR,-,NULL
+adjusted_price,VARCHAR,-,NULL
+minimum_nights,BIGINT,1 to 1125,1
+maximum_nights,BIGINT,1 to 2147483647,100

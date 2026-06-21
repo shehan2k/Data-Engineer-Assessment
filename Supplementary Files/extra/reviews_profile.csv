@@ -1,0 +1,7 @@
+Column Name,Data Type,Value Range,Sample Value
+listing_id,BIGINT,13913 to 1508900042872179456,4004998
+id,BIGINT,21032 to 1512348045519653376,168311971
+date,DATE,-,2015-05-04
+reviewer_id,BIGINT,44 to 718830086,29862185
+reviewer_name,VARCHAR,-,Robin
+comments,VARCHAR,-,It was so nice place. Chantal is the best host I've ever met before. Everything was perfect.

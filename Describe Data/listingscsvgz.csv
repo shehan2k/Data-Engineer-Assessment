@@ -1,0 +1,81 @@
+Column Name,Data Type,Total Rows,Null Count,Duplicates Exist (Cardinality),Value Range,Sample Value
+id,BIGINT,96871,0,No,13913 to 1508964418056953856,6116453
+listing_url,VARCHAR,96871,0,No,-,https://www.airbnb.com/rooms/6116453
+scrape_id,BIGINT,96871,0,Yes,20250914034649 to 20250914034649,20250914034649
+last_scraped,DATE,96871,0,Yes,-,2025-09-15
+source,VARCHAR,96871,0,Yes,-,city scrape
+name,VARCHAR,96871,0,Yes,-,"2 king Bedroom, London Flat"
+description,VARCHAR,96871,2450,Yes,-,"My bright double bedroom with a large window has a relaxed feeling! It comfortably fits one or two and is centrally located just two blocks from Finsbury Park. Enjoy great restaurants in the area and easy access to easy transport tubes, trains and buses. Babies and children of all ages are welcome."
+neighborhood_overview,VARCHAR,96871,55662,Yes,-,"Finsbury Park is a friendly melting pot community composed of Turkish, French, Spanish, Middle Eastern, Irish and English families. <br />We have a wonderful variety of international restaurants directly under us on Stroud Green Road. And there are many shops and large Tescos supermarket right next door. <br /><br />But you can also venture up to Crouch End and along Greens Lanes where there will endless choice of Turkish and Middle Eastern cuisines.s"
+picture_url,VARCHAR,96871,6,Yes,-,https://a0.muscache.com/pictures/4d91a458-f620-4493-918e-2ce31806466f.jpg
+host_id,BIGINT,96871,0,Yes,2594 to 718690455,31607089
+host_url,VARCHAR,96871,0,Yes,-,https://www.airbnb.com/users/show/146200796
+host_name,VARCHAR,96871,43,Yes,-,Alexis
+host_since,DATE,96871,41,Yes,-,2017-08-15
+host_location,VARCHAR,96871,23771,Yes,-,"London, United Kingdom"
+host_about,VARCHAR,96871,47032,Yes,-,"Dutch professional living and loving life in this wonderful little town called London. Avid traveler, love my art & architecture, music and good food! 
+I will make sure your stay is super comfy, whilst being on standby if there is anything you require: the whole flat and garden are at your disposal. "
+host_response_time,VARCHAR,96871,41,Yes,-,within a few hours
+host_response_rate,VARCHAR,96871,41,Yes,-,N/A
+host_acceptance_rate,VARCHAR,96871,41,Yes,-,N/A
+host_is_superhost,BOOLEAN,96871,1766,Yes,-,False
+host_thumbnail_url,VARCHAR,96871,41,Yes,-,https://a0.muscache.com/im/users/54730/profile_pic/1327774386/original.jpg?aki_policy=profile_small
+host_picture_url,VARCHAR,96871,41,Yes,-,https://a0.muscache.com/im/users/54730/profile_pic/1327774386/original.jpg?aki_policy=profile_x_medium
+host_neighbourhood,VARCHAR,96871,51021,Yes,-,Bloomsbury
+host_listings_count,BIGINT,96871,41,Yes,1 to 5469,1
+host_total_listings_count,BIGINT,96871,41,Yes,1 to 8769,1
+host_verifications,VARCHAR,96871,0,Yes,-,"['email', 'phone']"
+host_has_profile_pic,BOOLEAN,96871,41,Yes,-,True
+host_identity_verified,BOOLEAN,96871,41,Yes,-,True
+neighbourhood,VARCHAR,96871,55662,Yes,-,Neighborhood highlights
+neighbourhood_cleansed,VARCHAR,96871,0,Yes,-,Westminster
+neighbourhood_group_cleansed,VARCHAR,96871,96871,No,-,NULL
+latitude,DOUBLE,96871,0,Yes,51.295937 to 51.68263,51.52239
+longitude,DOUBLE,96871,0,Yes,-0.49676 to 0.27896,-0.12124
+property_type,VARCHAR,96871,0,Yes,-,Entire rental unit
+room_type,VARCHAR,96871,0,Yes,-,Entire home/apt
+accommodates,BIGINT,96871,0,Yes,1 to 16,2
+bathrooms,DOUBLE,96871,34846,Yes,0 to 26,1.5
+bathrooms_text,VARCHAR,96871,153,Yes,-,2.5 baths
+bedrooms,BIGINT,96871,12775,Yes,0 to 50,1
+beds,BIGINT,96871,34920,Yes,0 to 50,3
+amenities,VARCHAR,96871,0,Yes,-,"[""First aid kit"", ""Essentials"", ""Washer"", ""Kitchen"", ""Free parking on premises"", ""Smoke alarm"", ""Heating"", ""Hangers"", ""Carbon monoxide alarm"", ""Wifi""]"
+price,VARCHAR,96871,34908,Yes,-,$144.00
+minimum_nights,BIGINT,96871,0,Yes,1 to 1125,4
+maximum_nights,BIGINT,96871,0,Yes,1 to 524855552,1125
+minimum_minimum_nights,BIGINT,96871,3,Yes,1 to 1125,4
+maximum_minimum_nights,BIGINT,96871,3,Yes,1 to 1125,4
+minimum_maximum_nights,BIGINT,96871,3,Yes,1 to 524855552,1125
+maximum_maximum_nights,BIGINT,96871,3,Yes,1 to 2147483647,1125
+minimum_nights_avg_ntm,DOUBLE,96871,0,Yes,1 to 1125,2.0
+maximum_nights_avg_ntm,DOUBLE,96871,0,Yes,1 to 2135716619.5,14.0
+calendar_updated,VARCHAR,96871,96871,No,-,NULL
+has_availability,BOOLEAN,96871,4249,Yes,-,True
+availability_30,BIGINT,96871,0,Yes,0 to 30,0
+availability_60,BIGINT,96871,0,Yes,0 to 60,39
+availability_90,BIGINT,96871,0,Yes,0 to 90,0
+availability_365,BIGINT,96871,0,Yes,0 to 365,0
+calendar_last_scraped,DATE,96871,0,Yes,-,2025-09-16
+number_of_reviews,BIGINT,96871,0,Yes,0 to 1902,55
+number_of_reviews_ltm,BIGINT,96871,0,Yes,0 to 390,10
+number_of_reviews_l30d,BIGINT,96871,0,Yes,0 to 61,0
+availability_eoy,BIGINT,96871,0,Yes,0 to 109,0
+number_of_reviews_ly,BIGINT,96871,0,Yes,0 to 272,0
+estimated_occupancy_l365d,BIGINT,96871,0,Yes,0 to 255,0
+estimated_revenue_l365d,BIGINT,96871,34908,Yes,0 to 10150000,13640
+first_review,DATE,96871,24122,Yes,-,2017-09-13
+last_review,DATE,96871,24122,Yes,-,2015-07-01
+review_scores_rating,DOUBLE,96871,24122,Yes,0 to 5,5.0
+review_scores_accuracy,DOUBLE,96871,24137,Yes,0 to 5,5.0
+review_scores_cleanliness,DOUBLE,96871,24131,Yes,0 to 5,5.0
+review_scores_checkin,DOUBLE,96871,24165,Yes,0 to 5,4.98
+review_scores_communication,DOUBLE,96871,24142,Yes,0 to 5,4.87
+review_scores_location,DOUBLE,96871,24166,Yes,0 to 5,5.0
+review_scores_value,DOUBLE,96871,24166,Yes,0 to 5,4.64
+license,VARCHAR,96871,96871,No,-,NULL
+instant_bookable,BOOLEAN,96871,0,Yes,-,False
+calculated_host_listings_count,BIGINT,96871,0,Yes,1 to 500,1
+calculated_host_listings_count_entire_homes,BIGINT,96871,0,Yes,0 to 499,1
+calculated_host_listings_count_private_rooms,BIGINT,96871,0,Yes,0 to 116,1
+calculated_host_listings_count_shared_rooms,BIGINT,96871,0,Yes,0 to 25,0
+reviews_per_month,DOUBLE,96871,24122,Yes,0.01 to 36.96,0.01

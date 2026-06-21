@@ -1,0 +1,82 @@
+Column Name,Data Type,Value Range,Sample Value
+id,BIGINT,13913 to 1508964418056953856,6116453
+listing_url,VARCHAR,-,https://www.airbnb.com/rooms/11512057
+scrape_id,BIGINT,20250914034649 to 20250914034649,20250914034649
+last_scraped,DATE,-,2025-09-17
+source,VARCHAR,-,previous scrape
+name,VARCHAR,-,Holiday London DB Room Let-on going
+description,VARCHAR,-,"My bright double bedroom with a large window has a relaxed feeling! It comfortably fits one or two and is centrally located just two blocks from Finsbury Park. Enjoy great restaurants in the area and easy access to easy transport tubes, trains and buses. Babies and children of all ages are welcome."
+neighborhood_overview,VARCHAR,-,"Its a lovely quiet neighbourhood with lots of small shops, restaurants and pubs to hang out in.  A short walk and you are in the major shopping areas of Oxford Street, Tottenham Court Road and Bond Street.<br />There is even an outside Gym open to the public if you are feeling energetic!"
+picture_url,VARCHAR,-,https://a0.muscache.com/pictures/4d91a458-f620-4493-918e-2ce31806466f.jpg
+host_id,BIGINT,2594 to 718690455,60663063
+host_url,VARCHAR,-,https://www.airbnb.com/users/show/151510354
+host_name,VARCHAR,-,Rico
+host_since,DATE,-,2016-02-27
+host_location,VARCHAR,-,"London, United Kingdom"
+host_about,VARCHAR,-,"I am friendly and helpful.  I love travelling and meeting people.  I love to travel and hope to meet you soon.
+
+Am very family and friends oriented and also love dogs, especially the naughty playful types."
+host_response_time,VARCHAR,-,N/A
+host_response_rate,VARCHAR,-,N/A
+host_acceptance_rate,VARCHAR,-,N/A
+host_is_superhost,BOOLEAN,-,False
+host_thumbnail_url,VARCHAR,-,https://a0.muscache.com/im/pictures/user/3a340404-2d78-479f-8871-1a31cf5c7404.jpg?aki_policy=profile_small
+host_picture_url,VARCHAR,-,https://a0.muscache.com/im/pictures/user/3a340404-2d78-479f-8871-1a31cf5c7404.jpg?aki_policy=profile_x_medium
+host_neighbourhood,VARCHAR,-,Bloomsbury
+host_listings_count,BIGINT,1 to 5469,1
+host_total_listings_count,BIGINT,1 to 8769,1
+host_verifications,VARCHAR,-,"['email', 'phone']"
+host_has_profile_pic,BOOLEAN,-,True
+host_identity_verified,BOOLEAN,-,False
+neighbourhood,VARCHAR,-,Neighborhood highlights
+neighbourhood_cleansed,VARCHAR,-,Southwark
+neighbourhood_group_cleansed,VARCHAR,-,NULL
+latitude,DOUBLE,51.295937 to 51.68263,51.52239
+longitude,DOUBLE,-0.49676 to 0.27896,-0.002360379263166561
+property_type,VARCHAR,-,Entire rental unit
+room_type,VARCHAR,-,Entire home/apt
+accommodates,BIGINT,1 to 16,2
+bathrooms,DOUBLE,0 to 26,1.5
+bathrooms_text,VARCHAR,-,1 bath
+bedrooms,BIGINT,0 to 50,2
+beds,BIGINT,0 to 50,1
+amenities,VARCHAR,-,"[""Self check-in"", ""Kitchen"", ""Smoke alarm"", ""Dedicated workspace"", ""Shampoo"", ""Hair dryer"", ""Laundromat nearby"", ""Portable fans"", ""Stove"", ""Central heating"", ""Conditioner"", ""Blender"", ""Wifi"", ""Refrigerator"", ""Cooking basics"", ""Baking sheet"", ""Private patio or balcony"", ""Freezer"", ""Essentials"", ""Coffee maker"", ""Body soap"", ""Dishes and silverware"", ""Books and reading material"", ""Wine glasses"", ""Dining table"", ""Luggage dropoff allowed"", ""Oven"", ""Hot water kettle"", ""Long term stays allowed"", ""Free washer \u2013 In unit"", ""Hangers"", ""Coffee"", ""Children\u2019s dinnerware"", ""Outlet covers"", ""Iron"", ""Private entrance"", ""Board games"", ""First aid kit"", ""Lake access"", ""Shower gel"", ""Ethernet connection"", ""Clothing storage: dresser"", ""Paid street parking off premises"", ""Extra pillows and blankets"", ""Children\u2019s books and toys"", ""Bed linens"", ""Bathtub"", ""Building staff"", ""Fire extinguisher"", ""Toaster"", ""Hot water"", ""Carbon monoxide alarm"", ""Lock on bedroom door"", ""Room-darkening shades"", ""Babysitter recommendations""]"
+price,VARCHAR,-,$144.00
+minimum_nights,BIGINT,1 to 1125,3
+maximum_nights,BIGINT,1 to 524855552,29
+minimum_minimum_nights,BIGINT,1 to 1125,1
+maximum_minimum_nights,BIGINT,1 to 1125,1
+minimum_maximum_nights,BIGINT,1 to 524855552,14
+maximum_maximum_nights,BIGINT,1 to 2147483647,1125
+minimum_nights_avg_ntm,DOUBLE,1 to 1125,3.0
+maximum_nights_avg_ntm,DOUBLE,1 to 2135716619.5,1125.0
+calendar_updated,VARCHAR,-,NULL
+has_availability,BOOLEAN,-,True
+availability_30,BIGINT,0 to 30,30
+availability_60,BIGINT,0 to 60,0
+availability_90,BIGINT,0 to 90,0
+availability_365,BIGINT,0 to 365,0
+calendar_last_scraped,DATE,-,2025-09-14
+number_of_reviews,BIGINT,0 to 1902,66
+number_of_reviews_ltm,BIGINT,0 to 390,4
+number_of_reviews_l30d,BIGINT,0 to 61,0
+availability_eoy,BIGINT,0 to 109,60
+number_of_reviews_ly,BIGINT,0 to 272,8
+estimated_occupancy_l365d,BIGINT,0 to 255,0
+estimated_revenue_l365d,BIGINT,0 to 10150000,13640
+first_review,DATE,-,2017-01-23
+last_review,DATE,-,2025-08-21
+review_scores_rating,DOUBLE,0 to 5,5.0
+review_scores_accuracy,DOUBLE,0 to 5,5.0
+review_scores_cleanliness,DOUBLE,0 to 5,4.9
+review_scores_checkin,DOUBLE,0 to 5,4.8
+review_scores_communication,DOUBLE,0 to 5,5.0
+review_scores_location,DOUBLE,0 to 5,4.78
+review_scores_value,DOUBLE,0 to 5,4.62
+license,VARCHAR,-,NULL
+instant_bookable,BOOLEAN,-,False
+calculated_host_listings_count,BIGINT,1 to 500,2
+calculated_host_listings_count_entire_homes,BIGINT,0 to 499,1
+calculated_host_listings_count_private_rooms,BIGINT,0 to 116,0
+calculated_host_listings_count_shared_rooms,BIGINT,0 to 25,0
+reviews_per_month,DOUBLE,0.01 to 36.96,0.94

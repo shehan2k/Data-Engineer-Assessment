@@ -1,0 +1,19 @@
+Column Name,Data Type,Value Range,Sample Value
+id,BIGINT,13913 to 1508964418056953856,973851879183495567
+name,VARCHAR,-,London Paddington Apartments (Superior Studio)
+host_id,BIGINT,2594 to 718690455,524590602
+host_name,VARCHAR,-,Mohammad Rafiq
+neighbourhood_group,VARCHAR,-,NULL
+neighbourhood,VARCHAR,-,Westminster
+latitude,DOUBLE,51.295937 to 51.68263,51.5179311
+longitude,DOUBLE,-0.49676 to 0.27896,-0.1699439
+room_type,VARCHAR,-,Private room
+price,BIGINT,7 to 1085147,256
+minimum_nights,BIGINT,1 to 1125,1
+number_of_reviews,BIGINT,0 to 1902,3
+last_review,DATE,-,2024-02-10
+reviews_per_month,DOUBLE,0.01 to 36.96,0.14
+calculated_host_listings_count,BIGINT,1 to 500,11
+availability_365,BIGINT,0 to 365,128
+number_of_reviews_ltm,BIGINT,0 to 390,0
+license,VARCHAR,-,NULL

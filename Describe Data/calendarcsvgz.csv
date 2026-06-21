@@ -1,0 +1,8 @@
+Column Name,Data Type,Total Rows,Null Count,Duplicates Exist (Cardinality),Value Range,Sample Value
+listing_id,BIGINT,35357974,0,Yes,13913 to 1508964418056953856,9127647
+date,DATE,35357974,0,Yes,-,2025-11-25
+available,BOOLEAN,35357974,0,Yes,-,False
+price,VARCHAR,35357974,35357974,No,-,NULL
+adjusted_price,VARCHAR,35357974,35357974,No,-,NULL
+minimum_nights,BIGINT,35357974,0,Yes,1 to 1125,1
+maximum_nights,BIGINT,35357974,0,Yes,1 to 2147483647,100

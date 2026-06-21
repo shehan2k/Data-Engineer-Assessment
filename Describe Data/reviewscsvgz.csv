@@ -1,0 +1,7 @@
+Column Name,Data Type,Total Rows,Null Count,Duplicates Exist (Cardinality),Value Range,Sample Value
+listing_id,BIGINT,2097996,0,Yes,13913 to 1508900042872179456,3423329
+id,BIGINT,2097996,0,No,21032 to 1512348045519653376,898391529868705318
+date,DATE,2097996,0,Yes,-,2015-05-04
+reviewer_id,BIGINT,2097996,0,Yes,44 to 718830086,29862185
+reviewer_name,VARCHAR,2097996,2,Yes,-,Robin
+comments,VARCHAR,2097996,0,Yes,-,"I wanted to move in by the end of the week! Near all the Shoreditch cafes, bars and restos, stone throw away from from Liverpool St Stn, and short walk to the City. Big thanks to Nas for meeting me at dawn to pass me the keys! Great hosts."

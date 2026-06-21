@@ -1,0 +1,3 @@
+Column Name,Data Type,Value Range,Sample Value
+listing_id,BIGINT,13913 to 1508900042872179456,13913
+date,DATE,-,2025-07-09
